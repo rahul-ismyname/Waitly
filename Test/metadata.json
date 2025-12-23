@@ -1,8 +1,0 @@
-
-{
-  "name": "WAITLY - Smart Virtual Queue & Crowd Tracker",
-  "description": "A real-time crowd-sourced wait time tracker and virtual queue management system designed for both approved partners and non-participating public locations.",
-  "requestFramePermissions": [
-    "geolocation"
-  ]
-}
